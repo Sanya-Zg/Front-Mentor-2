@@ -50,6 +50,7 @@ h1:hover{
 }
 .description {
     color: hsl(0, 0%, 42%);
+    line-height: 27px;
 }
 .author-of {
     display: flex;
